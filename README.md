@@ -1,5 +1,7 @@
 # Spring Boot Shopping Cart Web App
 
+https://www.youtube.com/watch?v=Bn29aM3zQ6c
+
 ## About
 
 This is a demo project for practicing Spring + Thymeleaf. The idea was to build some basic shopping cart web app.
