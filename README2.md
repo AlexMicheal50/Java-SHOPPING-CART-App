@@ -1,6 +1,12 @@
 # Ensure the following are installed:
+
 Java JDK = java -version
+
+sudo apt install openjdk-11-jdk
+
 Maven = maven --version
+
+sudo apt install maven
 
 # To build your java application to a .jar file use:
 mvn clean package -DskipTests=true
